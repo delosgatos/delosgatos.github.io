@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://delosgatos.github.io
+title: Oleg Delosgatos
+paginate: 5
